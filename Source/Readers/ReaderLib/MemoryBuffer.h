@@ -7,6 +7,7 @@
 
 #include <stdint.h>
 #include <vector>
+#include "Basics.h"
 #include "ReaderConstants.h"
 
 namespace Microsoft { namespace MSR { namespace CNTK {

@@ -5,7 +5,6 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 #include "MemoryBuffer.h"
-#include "Basics.h"
 #include <boost/utility/string_ref.hpp>
 #include <boost/algorithm/string.hpp>
 
